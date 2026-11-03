@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.ide
+
+# Build outputs (compilación)
+bin/
+obj/
+
+# Paquetes NuGet
+*.nuget/
+
+# Base de datos local
+*.mdf
+*.ldf
+
+# Archivos grandes que no queremos en Git
+BD_Proyecto_1p.bak
+*.rar
+
+# Archivos del sistema Windows
+Thumbs.db
+ehthumbs.db
+
+# Archivos de entorno
+*_pub*
+*_deploy*
+
+#pdf
+*.pdf
